@@ -1,5 +1,5 @@
-
-  - My name is Leonardo, i'm a undergraduate student majoring math and physics
+Hey there!
+  - My name is Leonardo, I'm an undergraduate student majoring math and physics
   - 🔭 I’m currently working on physics projects in general and set-theoretic topology
   - 🌱 I’m currently learning mathematics(set theory) and physics(acoustics and particle physics)
   - 👯 I’m looking to collaborate on research projects relating physics and mathematics
